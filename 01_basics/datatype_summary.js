@@ -40,4 +40,5 @@ console.log(myFunction)
 
 console.log(typeof myFunction)  //Function Object
 console.log(typeof Symbol)
+console.log(typeof null)
 
